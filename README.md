@@ -6,18 +6,19 @@ Feel free to read them and ask any questions in our telegram channel.
 
 ## What's inside
 - [MasterChef contract]
-- [BRSCH Token Tracker]
-- [Little helper contract]
+- [BORSHCH Token Tracker]
 ## Our pairs
-- [BRSCH-BUSD Pair]
-- [BRSCH-BNB Pair]
-- [BRSCH-CAKE Pair]
+- [BORSHCH-BUSD Pair]
+- [BORSHCH-BNB Pair]
+- [BORSHCH-CAKE Pair]
+- [BORSHCH-BTC Pair]
 
-   [BRSCH Token Tracker]: <https://bscscan.com/address/0xe02828194Da8bfD66236f86C33a2819F857b56e5>
-   [Little helper contract]: <https://bscscan.com/address/0xb12fa2730185562A9236AFF45c54C2060eF78C8D>
-   [BRSCH-BUSD Pair]: <https://bscscan.com/address/0xB498F38f8F29CEd0FCe33135061E5d47862a1355>
-   [BRSCH-CAKE Pair]:<https://bscscan.com/address/0x03cabba4eE6902e2220B1c6f84b56342cbdfDB03>
-   [MasterChef contract]: <https://bscscan.com/address/0x444ae980F6bE517E1Ae5aFdc138eF5463EE1Fb0c>
-   [BRSCH-BNB Pair]: <https://bscscan.com/address/0xE3FA82D9E8511E5b7Adaf0CA3720382101304F11>
+   [BORSHCH Token Tracker]: <https://bscscan.com/address/0x7b41e1860c91Be188c18341AE53a18B49C4b8D15>
+   [BORSHCH-BUSD Pair]: <https://bscscan.com/address/0xC566b6d3661Fe0DA56c946B47bf5743AD24ecA49>
+   [BORSHCH-CAKE Pair]:<https://bscscan.com/address/0x385EABE93f98374ddFD34098630bbc88f5A83F17>
+   [MasterChef contract]: <https://bscscan.com/address/0xEf2D2F5480Cd1B7e66E41d417F37ADB4B63F3EfC>
+   [BORSHCH-BNB Pair]: <https://bscscan.com/address/0xD5308D266Da4FbEc65ea3AE227FdA05E89576cb6>
+   [BORSHCH-BTC Pair]: <https://bscscan.com/address/0x86C0b83478365cEE1c51cf3f036Eb41DB9d1Db86>
+   
    
   
